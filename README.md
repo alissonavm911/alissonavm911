@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alisson Moreira
 
-🚀 **Junior Backend Developer | JavaScript & .NET Specialist**  
+🚀 **Junior Backend Developer | JavaScript & .NET**  
 🇧🇷 Brazil
 
 I’m a ***Junior Backend Developer** focused on building **APIs**, **backend services**, and **web applications**.
