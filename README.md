@@ -3,12 +3,12 @@
 
 # Hi 👋, I'm Alisson Moreira
 
-🚀 **Junior Backend Developer | JavaScript & .NET**  
+🚀 **Junior Backend Developer | .NET**  
 🇧🇷 Brazil
 
 I’m a ***Junior Backend Developer** focused on building **APIs**, **backend services**, and **web applications**.
 
-I work mainly with **JavaScript and .NET**, developing **REST APIs**, **authentication systems**, **database integrations**, and **backend solutions** while continuously improving my **code quality**, **security**, **software architecture**, and **problem-solving skills**.
+I work mainly with **.NET**, developing **REST APIs**, **authentication systems**, **database integrations**, and **backend solutions** while continuously improving my **code quality**, **security**, **software architecture**, and **problem-solving skills**.
 
 My goal is to grow into a **Senior Software Engineer**, constantly learning, building **real-world projects**, and improving my skills throughout the journey.
 
@@ -31,7 +31,6 @@ My goal is to grow into a **Senior Software Engineer**, constantly learning, bui
 ## 🧠 What I do
 
 -   🔧 Backend development & REST APIs
--   💻 JavaScript & .NET
 -   🗄️ Databases & data management
 -   🔐 Authentication & API security
 -   🧩 Clean code & software architecture
@@ -46,7 +45,6 @@ My goal is to grow into a **Senior Software Engineer**, constantly learning, bui
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-407020?style=for-the-badge&logo=nodedotjs)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
