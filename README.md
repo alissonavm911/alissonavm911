@@ -1,3 +1,6 @@
+![Texto Alternativo](Alisson%20Moreira.png)
+
+
 # Hi 👋, I'm Alisson Moreira
 
 🚀 **Junior Backend Developer | JavaScript & .NET**  
