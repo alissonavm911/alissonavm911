@@ -45,12 +45,12 @@ My goal is to grow into a **Senior Software Engineer**, constantly learning, bui
 
 ### Backend
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![SQLite](https://img.shields.io/badge/SQLite-102090?style=for-the-badge&logo=SQLite)
 ![MySQL](https://img.shields.io/badge/MySQL-003090?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001770?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![MongoDB](https://img.shields.io/badge/MongoDB-407020?style=for-the-badge&logo=mongodb)
 
 ### DevOps & Tools
