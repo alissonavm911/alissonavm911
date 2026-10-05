@@ -49,14 +49,13 @@ My goal is to grow into a **Senior Software Engineer**, constantly learning, bui
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![SQL](https://img.shields.io/badge/SQL-001770?style=for-the-badge&logo=sql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-407020?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-003090?style=for-the-badge&logo=redis)
+![Redis](https://img.shields.io/badge/Redis-ffffff?style=for-the-badge&logo=redis)
 
 ### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-069?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman)
 
 ---
 
