@@ -55,6 +55,7 @@ My goal is to grow into a **Senior Software Engineer**, constantly learning, bui
 
 ![Docker](https://img.shields.io/badge/Docker-069?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![n8n](https://img.shields.io/badge/n8n-001000?style=for-the-badge&logo=n8n)
 ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git)
 
 ---
