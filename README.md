@@ -47,8 +47,8 @@ My goal is to grow into a **Senior Software Engineer**, constantly learning, bui
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![MySQL](https://img.shields.io/badge/MySQL-003090?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001770?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-003090?style=for-the-badge&logo=redis)
+![SQL](https://img.shields.io/badge/SQL-001770?style=for-the-badge&logo=sql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-407020?style=for-the-badge&logo=mongodb)
 
 ### DevOps & Tools
